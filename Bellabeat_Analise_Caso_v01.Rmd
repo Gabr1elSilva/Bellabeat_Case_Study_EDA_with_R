@@ -2,7 +2,9 @@
 title: "Estudo de Caso com R - Bellabeat"
 author: "Gabriel Silva"
 date: "2026-02-04"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 # Perguntar
