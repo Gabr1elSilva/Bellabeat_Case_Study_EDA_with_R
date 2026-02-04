@@ -3,6 +3,7 @@ title: "Estudo de Caso com R - Bellabeat"
 author: "Gabriel Silva"
 date: "2026-02-04"
 output:
+  github_document: default
   pdf_document: default
   html_document: default
 ---
